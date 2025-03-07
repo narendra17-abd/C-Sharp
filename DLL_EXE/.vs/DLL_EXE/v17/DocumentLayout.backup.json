@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\DLL_EXE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E657E8DE-0B5F-4818-8889-2497364F1422}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\dll_exe\\calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E657E8DE-0B5F-4818-8889-2497364F1422}|CalculatorLibrary\\CalculatorLibrary.csproj|solutionrelative:calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20BE30-81BA-4FBD-8956-2B24A3335643}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\dll_exe\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20BE30-81BA-4FBD-8956-2B24A3335643}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\DLL_EXE\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\DLL_EXE\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:35:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\DLL_EXE\\CalculatorLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\DLL_EXE\\CalculatorLibrary\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:28:40.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

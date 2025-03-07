@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\jwt_auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\jwt_auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\jwt_auth\\jwt_auth\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5102F-AF64-42ED-9C0F-2EDB2DF93771}|Jwt_Auth\\Jwt_Auth.csproj|solutionrelative:jwt_auth\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "Jwt_Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\appsettings.json",
+              "RelativeToolTip": "Jwt_Auth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T10:43:49.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Jwt_Auth\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:41:00.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jwt_Auth",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Jwt_Auth.csproj",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Jwt_Auth.csproj",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Jwt_Auth.csproj",
+              "RelativeToolTip": "Jwt_Auth\\Jwt_Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T10:40:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Jwt_Auth\\Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:34:25.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\Response.cs",
+              "RelativeToolTip": "Jwt_Auth\\Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:34:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Jwt_Auth\\Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:33:50.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Jwt_Auth\\Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:33:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Jwt_Auth\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\Jwt_Auth\\Jwt_Auth\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Jwt_Auth\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:32:57.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

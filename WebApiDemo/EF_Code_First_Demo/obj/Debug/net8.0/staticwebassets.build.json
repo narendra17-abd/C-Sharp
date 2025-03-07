@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "V+eymF92bVfIWRhdG3zxva9l7viip9gkL88UudBEO9I=",
+  "Source": "EF_Code_First_Demo",
+  "BasePath": "_content/EF_Code_First_Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
+      "Version": 2,
+      "Source": "WebApiDemo",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

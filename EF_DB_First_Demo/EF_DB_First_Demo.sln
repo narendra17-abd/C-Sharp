@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_DB_First_Demo", "EF_DB_First_Demo\EF_DB_First_Demo.csproj", "{C151332D-FB6F-4132-871F-244CC50309C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestProject1", "RestSharpTestProject1\RestSharpTestProject1.csproj", "{93230627-6864-47E4-9B6E-E60E40E8E0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C151332D-FB6F-4132-871F-244CC50309C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C151332D-FB6F-4132-871F-244CC50309C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C151332D-FB6F-4132-871F-244CC50309C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C151332D-FB6F-4132-871F-244CC50309C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93230627-6864-47E4-9B6E-E60E40E8E0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93230627-6864-47E4-9B6E-E60E40E8E0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93230627-6864-47E4-9B6E-E60E40E8E0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93230627-6864-47E4-9B6E-E60E40E8E0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F715C6-FACF-4560-8326-6D81E956FD4C}
+	EndGlobalSection
+EndGlobal

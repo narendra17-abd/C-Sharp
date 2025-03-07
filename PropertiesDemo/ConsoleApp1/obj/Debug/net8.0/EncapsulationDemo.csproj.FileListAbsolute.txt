@@ -1,0 +1,14 @@
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\bin\Debug\net8.0\EncapsulationDemo.exe
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\bin\Debug\net8.0\EncapsulationDemo.deps.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\bin\Debug\net8.0\EncapsulationDemo.runtimeconfig.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\bin\Debug\net8.0\EncapsulationDemo.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\bin\Debug\net8.0\EncapsulationDemo.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfoInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfo.cs
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.csproj.CoreCompileInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\refint\EncapsulationDemo.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\EncapsulationDemo.genruntimeconfig.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\PropertiesDemo\ConsoleApp1\obj\Debug\net8.0\ref\EncapsulationDemo.dll

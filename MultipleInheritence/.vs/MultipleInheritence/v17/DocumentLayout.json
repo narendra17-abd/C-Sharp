@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\multipleinheritence\\multipleinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|solutionrelative:multipleinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\multipleinheritence\\multipleinheritence\\interfaces\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|solutionrelative:multipleinheritence\\interfaces\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\multipleinheritence\\multipleinheritence\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EFCD38-F98A-42E3-9CE9-9962F48A1057}|MultipleInheritence\\MultipleInheritence.csproj|solutionrelative:multipleinheritence\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWork.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Interfaces\\IWork.cs",
+              "RelativeDocumentMoniker": "MultipleInheritence\\Interfaces\\IWork.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Interfaces\\IWork.cs",
+              "RelativeToolTip": "MultipleInheritence\\Interfaces\\IWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:42:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Person.cs",
+              "RelativeDocumentMoniker": "MultipleInheritence\\Person.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Person.cs",
+              "RelativeToolTip": "MultipleInheritence\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:33:52.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Program.cs",
+              "RelativeDocumentMoniker": "MultipleInheritence\\Program.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\MultipleInheritence\\MultipleInheritence\\Program.cs",
+              "RelativeToolTip": "MultipleInheritence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:33:14.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.AssemblyInfoInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.AssemblyInfo.cs
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.csproj.CoreCompileInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\bin\Debug\net8.0\MultipleInheritence.exe
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\bin\Debug\net8.0\MultipleInheritence.deps.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\bin\Debug\net8.0\MultipleInheritence.runtimeconfig.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\bin\Debug\net8.0\MultipleInheritence.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\bin\Debug\net8.0\MultipleInheritence.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\refint\MultipleInheritence.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\MultipleInheritence.genruntimeconfig.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\MultipleInheritence\MultipleInheritence\obj\Debug\net8.0\ref\MultipleInheritence.dll

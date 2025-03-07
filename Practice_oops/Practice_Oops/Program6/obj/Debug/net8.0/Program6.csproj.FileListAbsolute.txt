@@ -1,0 +1,14 @@
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\bin\Debug\net8.0\Program6.exe
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\bin\Debug\net8.0\Program6.deps.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\bin\Debug\net8.0\Program6.runtimeconfig.json
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\bin\Debug\net8.0\Program6.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\bin\Debug\net8.0\Program6.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.AssemblyInfoInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.AssemblyInfo.cs
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.csproj.CoreCompileInputs.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\refint\Program6.dll
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.pdb
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\Program6.genruntimeconfig.cache
+C:\Users\naren\OneDrive\Desktop\CapG\CSharp\Practice_oops\Practice_Oops\Program6\obj\Debug\net8.0\ref\Program6.dll

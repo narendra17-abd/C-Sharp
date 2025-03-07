@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9493A4CC-03E8-49C2-8DCD-7B6F23EFD556}|WebApplication1\\AzureDemo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\webapplication1\\webapplication1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9493A4CC-03E8-49C2-8DCD-7B6F23EFD556}|WebApplication1\\AzureDemo.csproj|solutionrelative:webapplication1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\WebApplication1\\WebApplication1\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\WebApplication1\\WebApplication1\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:43:15.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

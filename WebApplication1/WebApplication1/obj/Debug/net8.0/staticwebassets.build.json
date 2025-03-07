@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mmuA32FcOgxHaJpLjWszACMTgxSstq8+6eRaMxy/hj0=",
+  "Source": "AzureDemo",
+  "BasePath": "_content/AzureDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93230627-6864-47E4-9B6E-E60E40E8E0FF}|RestSharpTestProject1\\RestSharpTestProject1.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\restsharptestproject1\\categoriescrudtestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93230627-6864-47E4-9B6E-E60E40E8E0FF}|RestSharpTestProject1\\RestSharpTestProject1.csproj|solutionrelative:restsharptestproject1\\categoriescrudtestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|c:\\users\\naren\\onedrive\\desktop\\capg\\csharp\\ef_db_first_demo\\ef_db_first_demo\\ef_db_first_demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C151332D-FB6F-4132-871F-244CC50309C9}|EF_DB_First_Demo\\EF_DB_First_Demo.csproj|solutionrelative:ef_db_first_demo\\ef_db_first_demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesCRUDTestClass.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\RestSharpTestProject1\\CategoriesCRUDTestClass.cs",
+              "RelativeDocumentMoniker": "RestSharpTestProject1\\CategoriesCRUDTestClass.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\RestSharpTestProject1\\CategoriesCRUDTestClass.cs",
+              "RelativeToolTip": "RestSharpTestProject1\\CategoriesCRUDTestClass.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:21:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\Product.cs",
+              "RelativeToolTip": "EF_DB_First_Demo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:29:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\Category.cs",
+              "RelativeToolTip": "EF_DB_First_Demo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:29:09.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Program.cs",
+              "RelativeToolTip": "EF_DB_First_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:22:22.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "EF_DB_First_Demo\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:21:23.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\Models\\BikeStoresContext.cs",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "EF_DB_First_Demo\\Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:13:14.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EF_DB_First_Demo.http",
+              "DocumentMoniker": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\EF_DB_First_Demo.http",
+              "RelativeDocumentMoniker": "EF_DB_First_Demo\\EF_DB_First_Demo.http",
+              "ToolTip": "C:\\Users\\naren\\OneDrive\\Desktop\\CapG\\CSharp\\EF_DB_First_Demo\\EF_DB_First_Demo\\EF_DB_First_Demo.http",
+              "RelativeToolTip": "EF_DB_First_Demo\\EF_DB_First_Demo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-21T05:08:49.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
